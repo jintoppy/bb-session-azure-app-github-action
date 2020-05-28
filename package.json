@@ -1,0 +1,20 @@
+{
+  "name": "bb-session-azure-app-github-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jintoppy/bb-session-azure-app-github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jintoppy/bb-session-azure-app-github-action/issues"
+  },
+  "homepage": "https://github.com/jintoppy/bb-session-azure-app-github-action#readme"
+}
